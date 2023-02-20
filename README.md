@@ -73,7 +73,7 @@ GitHub has several repositories that contain a wealth of publicly-available foot
   * [soccer-spi](https://github.com/fivethirtyeight/data/tree/master/soccer-spi)  
   * [football-prediction-model](https://github.com/pawelp0499/football-prediction-model)  
 
-### Guide to Football data and APIs
+### Guide to Football Data and APIs
 
 There are three main ways to get data. You can parse/scrape it from a hobbyist project/website, you can pay for it or you can try to collect it yourself.
 
