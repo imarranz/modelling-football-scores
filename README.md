@@ -73,6 +73,13 @@ GitHub has several repositories that contain a wealth of publicly-available foot
   * [soccer-spi](https://github.com/fivethirtyeight/data/tree/master/soccer-spi)  
   * [football-prediction-model](https://github.com/pawelp0499/football-prediction-model)  
 
+#### Other Sources
+
+  * [Data Cleaning: Inspecting and Wrangling the FIFA 21 Data using Power Query](https://medium.com/microsoft-power-bi/data-cleaning-inspecting-and-wrangling-the-fifa-21-data-20cad3195595)
+  * [FIFA 21 Data Cleaning using Power Query](https://medium.com/@elobuikechinaza1/fifa-2021-data-cleaning-using-power-query-814b60458d8a)
+  * [Cleaning the FIFA-2021 Dataset with Power Query](https://medium.com/@omojuwa_oluwaseun/cleaning-the-fifa-2021-dataset-with-power-query-d83da602cddd)
+  * [FIFA 21 messy, raw dataset for cleaning/exploring](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring)
+
 ### Guide to Football Data and APIs
 
 There are three main ways to get data. You can parse/scrape it from a hobbyist project/website, you can pay for it or you can try to collect it yourself.
