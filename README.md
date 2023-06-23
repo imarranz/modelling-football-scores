@@ -1,4 +1,18 @@
 
+**Version and Activity**
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/imarranz/modelling-football-scores)
+![GitHub Release Date](https://img.shields.io/github/release-date/imarranz/modelling-football-scores)
+<!--
+![GitHub commits since tagged version](https://img.shields.io/github/commits-since/imarranz/data-science-workflow-management/dswm.23.06.22)
+-->
+![GitHub last commit](https://img.shields.io/github/last-commit/imarranz/modelling-football-scores)
+![GitHub all releases](https://img.shields.io/github/downloads/imarranz/modelling-football-scores)<br>
+**Analysis**
+
+![GitHub top language](https://img.shields.io/github/languages/top/imarranz/modelling-football-scores)
+![GitHub language count](https://img.shields.io/github/languages/count/imarranz/modelling-football-scores)<br>
+
 <!--
 https://patorjk.com/software/taag/#p=display&h=1&v=1&f=Doom&t=Modelling%0A%20%20Football%0A%20%20%20%20%20Scores
 
