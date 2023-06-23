@@ -7,7 +7,7 @@
 ![GitHub commits since tagged version](https://img.shields.io/github/commits-since/imarranz/data-science-workflow-management/dswm.23.06.22)
 -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/imarranz/modelling-football-scores)
-![GitHub all releases](https://img.shields.io/github/downloads/imarranz/modelling-football-scores)<br>
+![GitHub all releases](https://img.shields.io/github/downloads/imarranz/modelling-football-scores/total)<br>
 **Analysis**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/imarranz/modelling-football-scores)
