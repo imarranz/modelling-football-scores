@@ -30,7 +30,7 @@
 
 **Social Media**
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/imarranz" target="_blank">
     <img src="https://img.shields.io/twitter/follow/imarranz.svg?logo=twitter">
   </a>
