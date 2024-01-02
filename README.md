@@ -5,7 +5,7 @@
 
 **Version and Activity**
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/imarranz/modelling-football-scores/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
