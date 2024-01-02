@@ -1,47 +1,41 @@
 
+# MODELLING FOOTBALL SCORES
+
+![](https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608)
+
 **Version and Activity**
+
+<p align="center">
+  <a href="https://github.com/imarranz/modelling-football-scores/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-red.svg?longCache=true" alt="MIT License">
+  </a>
+   <a href="https://github.com/imarranz/modelling-football-scores"><img src="https://img.shields.io/github/stars/imarranz/modelling-football-scores" alt="Stars"/></a>
+  </a>
+</p>
+
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/imarranz/modelling-football-scores)
 ![GitHub Release Date](https://img.shields.io/github/release-date/imarranz/modelling-football-scores)
-<!--
-![GitHub commits since tagged version](https://img.shields.io/github/commits-since/imarranz/data-science-workflow-management/dswm.23.06.22)
--->
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/imarranz/modelling-football-scores)
 ![GitHub all releases](https://img.shields.io/github/downloads/imarranz/modelling-football-scores/total)<br>
+
 **Analysis**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/imarranz/modelling-football-scores)
 ![GitHub language count](https://img.shields.io/github/languages/count/imarranz/modelling-football-scores)<br>
 
-<!--
-https://patorjk.com/software/taag/#p=display&h=1&v=1&f=Doom&t=Modelling%0A%20%20Football%0A%20%20%20%20%20Scores
+**Social Media**
 
-https://dev.to/coderallan/how-to-spice-up-your-markdown-documents-2pjg
--->
+<p align="center">
+  <a href="https://twitter.com/imarranz" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/imarranz.svg?logo=twitter">
+  </a>
+</p>
 
-```
-___  ___            _        _  _  _               
-|  \/  |           | |      | || |(_)                
-| .  . |  ___    __| |  ___ | || | _  _ __    __ _   
-| |\/| | / _ \  / _` | / _ \| || || || '_ \  / _` |  
-| |  | || (_) || (_| ||  __/| || || || | | || (_| |  
-\_|  |_/ \___/  \__,_| \___||_||_||_||_| |_| \__, |  
-  ______             _    _             _  _  __/ |  
-  |  ___|           | |  | |           | || ||___/   
-  | |_  ___    ___  | |_ | |__    __ _ | || |        
-  |  _|/ _ \  / _ \ | __|| '_ \  / _` || || |        
-  | | | (_) || (_) || |_ | |_) || (_| || || |        
-  \_|  \___/  \___/  \__||_.__/  \__,_||_||_|        
-      _____                                          
-     /  ___|                                         
-     \ `--.   ___  ___   _ __  ___  ___              
-      `--. \ / __|/ _ \ | '__|/ _ \/ __|             
-     /\__/ /| (__| (_) || |  |  __/\__ \             
-     \____/  \___|\___/ |_|   \___||___/           
-     
-```
-
-# MODELLING FOOTBALL SCORES
 
 Modelling football scores is the process of constructing a mathematical model which can be used to predict the results of football matches based on data from past games. It involves taking historical data about teams’ goals scored and conceded and using it to build a predictive model for future matches. This model can then be used to estimate the likelihood of a particular result, such as how likely a particular team is to win a certain game. Modelling football scores can be used for a number of different applications, such as predicting the outcome of an upcoming game or providing insights into team performance over an entire season.
 
