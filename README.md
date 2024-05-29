@@ -1,7 +1,7 @@
 
 # MODELLING FOOTBALL SCORES
 
-![](https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608)
+![](https://repository-images.githubusercontent.com/598706236/610a8371-6e9a-4198-a696-7cbeb32d6325)
 
 **Version and Activity**
 
